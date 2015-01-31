@@ -1,0 +1,27 @@
+{% load staticfiles %}
+body{
+	margin-bottom: 50px;
+	background: none;
+}
+
+.tweet-button{
+    padding-top: 10px;
+    padding-right: 40px;
+}
+.nav-button{
+    padding-top: 5px;
+    padding-right: 30px;
+}
+.index-header{
+    color: #ffffff;
+}
+.index-header-small{
+    color: #777777;
+}
+.full {
+  background: url('../img/apple-coffee-computer-45.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
